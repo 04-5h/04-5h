@@ -17,3 +17,5 @@
   <a href="https://www.instagram.com/05.4h/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:lhg0004@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+<br><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpwns)](https://solved.ac/dlgpwns/)
