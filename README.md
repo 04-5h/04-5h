@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FBBAD4&height=150&section=header&text=%20leehyejun&fontSize=80&fontColor=494849" /><br><br>
+<div align="center/right/left">
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=04-5h&show_icons=true&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04-5h&layout=compact"></p><br><br>
@@ -17,5 +18,6 @@
   <a href="https://www.instagram.com/05.4h/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:lhg0004@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+</div>
 <br><br><br>
 
