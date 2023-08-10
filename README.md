@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FBBAD4&height=150&section=header&text=%20leehyejun&fontSize=60&fontColor=494849" /><br><br>
 
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=04-5h&show_icons=true&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=04-5h&show_icons=true"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04-5h&layout=compact"></p><br><br>
 <h2 align="center">📚 Tech Stack 📚</h2>
 <p align ="center">
