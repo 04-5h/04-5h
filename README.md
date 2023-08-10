@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML&logoColor=white"/>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
