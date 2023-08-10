@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FBBAD4&height=150&section=header&text=%20leehyejun&fontSize=80&fontColor=494849" /><br><br>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FBBAD4&height=150&section=header&text=%20leehyejun&fontSize=80&fontColor=494849" /><br><br>
 <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=04-5h&show_icons=true&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04-5h&layout=compact"></p><br><br>
@@ -18,5 +18,4 @@
   <a href="mailto:lhg0004@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <br><br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpwns)](https://solved.ac/dlgpwns)
+
